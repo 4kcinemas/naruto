@@ -61,7 +61,7 @@ async def next_page(bot, query):
         btn = [
             [
                 InlineKeyboardButton(
-                    text=f"[{get_size(file.file_size)}] {file.file_name}", callback_data=f'files#{file.file_id}'
+                    text=f"🎬[{get_size(file.file_size)}] 📂{file.file_name}", callback_data=f'files#{file.file_id}'
                 ),
             ]
             for file in files
@@ -400,13 +400,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MWUpdatez'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/OpusTechz')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/ss_linkz'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/NetflixMovies_sslinkz')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/c/SarathiEditzzOfficial')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -433,7 +433,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('♥️ SԾUᏒCΞ ♥️', url='https://github.com/Aadhi000/Ajax')
+            InlineKeyboardButton('♥️ SԾUᏒCΞ ♥️', url='https://t.me/ss_linkz')
             ],[
             InlineKeyboardButton('🏠 𝗛𝗼𝗺𝗲 🏠', callback_data='start'),
             InlineKeyboardButton('🔐 𝗖𝗹𝗼𝘀𝗲 🔐', callback_data='close_data')
@@ -577,7 +577,7 @@ async def auto_filter(client, msg, spoll=False):
         btn = [
             [
                 InlineKeyboardButton(
-                    text=f"[{get_size(file.file_size)}] {file.file_name}", callback_data=f'files#{file.file_id}'
+                    text=f"🎬[{get_size(file.file_size)}] 📂{file.file_name}", callback_data=f'files#{file.file_id}'
                 ),
             ]
             for file in files
