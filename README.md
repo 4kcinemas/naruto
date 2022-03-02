@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/AJAX.png" alt="Ajax Techz">
+  <img src="assets/images (1) (15).jpeg" alt="Naruto">
 </p>
 <h1 align="center">
-  <b>ᗩᒍᗩ᙭ 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
+  <b>𝙽𝚊𝚛𝚞𝚝𝚘 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
 </h1>
-<a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
+<a href="https://youtube.com/c/SarathiEditzzOfficial">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
 
 [![Stars](https://img.shields.io/github/stars/Aadhi000/Ajax?style=flat-square&color=orange)](https://github.com/Aadhi000/Ajax/stargazers)
@@ -93,8 +93,8 @@ python3 bot.py
 • /ban  - to ban a user.
 • /unban  - to unban a user.
 • /channel - to get list of total connected channels
-• /broadcast - to broadcast a message to Ajax users
+• /broadcast - to broadcast a message to naruto users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐚𝐝𝐡𝐢](https://t.me/Aadhi011) || [𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦](https://www.instagram.com/_strange_friend_/)                                                                                                                                                                                    
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/MWUpdatez)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐒𝐚𝐫𝐚𝐭𝐡𝐢](https://t.me/sarathi_admin) || [𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦](https://www.instagram.com/sarathi_editzz/)                                                                                                                                                                                    
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐨𝐯𝐢𝐞𝐬 𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/ss_linkz)
